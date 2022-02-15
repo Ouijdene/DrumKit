@@ -5,9 +5,9 @@ body {
 
 h1 {
   font-size: 5rem;
-  color: #dbedf3;
+  color: #EEEEEE;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #da0463;
+  text-shadow: 3px 0 #CDDEFF ;
 }
 
 .w {
@@ -55,7 +55,7 @@ h1 {
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #dbedf3;
+  box-shadow: 0 3px 4px 0 #EEEEEE;
   opacity: 0.5;
 }
 
@@ -70,8 +70,8 @@ h1 {
   font-family: "Arvo", cursive;
   line-height: 2;
   font-weight: 900;
-  color: #da0463;
-  text-shadow: 3px 0 #dbedf3;
+  color: #EEEEEE;
+  text-shadow: 3px 0 #CDDEFF;
   border-radius: 15px;
   display: inline-block;
   width: 150px;
